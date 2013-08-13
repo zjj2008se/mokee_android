@@ -452,14 +452,14 @@
   <!-- MoKee System End -->
 
   <!-- Devices Paired Start -->
-   <project path="device/htc/dlxj" name="tako0910/android_device_htc_dlxj" revision="cm10.2"/>
-   <project path="device/htc/apq8064-common" name="tako0910/android_device_htc_apq8064-common" revision="cm10.2"/>
-   <project path="kernel/htc/dlxj" name="tako0910/android_kernel_htc_dlxj" revision="cm10.2"/>
+   <project path="device/htc/dlxj" name="tako0910/android_device_htc_dlxj" revision="cm-10.2"/>
+   <project path="device/htc/apq8064-common" name="tako0910/android_device_htc_apq8064-common" revision="cm-10.2"/>
+   <project path="kernel/htc/dlxj" name="tako0910/android_kernel_htc_dlxj" revision="cm-10.2"/>
    
   <!-- Common -->
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
-  <project path="vendor/htc/dlxj" name="MoKee/android_vendor_htc_dlxj" />
+  <project path="vendor/htc/dlxj" name="tako0910/android_vendor_htc_dlxj" revision="cm-10.2"/>
   
   <!-- Devices Paired End -->
   
