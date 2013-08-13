@@ -453,7 +453,7 @@
 
   <!-- Devices Paired Start -->
    <project path="device/htc/dlxj" name="tako0910/android_device_htc_dlxj" revision="cm-10.2"/>
-   <project path="device/htc/apq8064-common" name="tako0910/android_device_htc_apq8064-common" revision="cm-10.2"/>
+   <project path="device/htc/msm8960-common" name="tako0910/android_device_htc_msm8960-common" revision="cm-10.2"/>
    <project path="kernel/htc/dlxj" name="tako0910/android_kernel_htc_dlxj" revision="cm-10.2"/>
    
   <!-- Common -->
