@@ -331,7 +331,6 @@
   <project path="packages/inputmethods/PinyinIME" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_inputmethods_PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/ContactsProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_ContactsProvider" />
-  <project path="packages/providers/DownloadProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_DownloadProvider" />
   <project path="packages/providers/DrmProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_DrmProvider" />
   <project path="packages/providers/MediaProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_PartnerBookmarksProvider" />
@@ -460,6 +459,7 @@
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="vendor/htc/dlxj" name="tako0910/android_vendor_htc_dlxj" revision="cm-10.2"/>
+  <project path="packages/providers/DownloadProvider" name="MoKee/android_packages_providers_DownloadProvider" /> 
   
   <!-- Devices Paired End -->
   
